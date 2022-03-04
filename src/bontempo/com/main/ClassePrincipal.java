@@ -7,7 +7,7 @@ public class ClassePrincipal {
 	
 		
 	    //System.out.println(new Scanner(System.in).nextLine());
-		System.out.println("Primeira Classe em 2022");	
+		System.out.println("Primeira Classe em 2022 Teste commit");	
 	}
 
 }
